@@ -1,0 +1,3 @@
+[submodule "TestCore"]
+	path = TestCore
+	url = https://github.com/sibille/TestCore.git
