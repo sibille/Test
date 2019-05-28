@@ -29,7 +29,7 @@ namespace Test.App
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            myText.Text = TextService.GetNewText2();
+            myText.Text = TextService.GetNewText3();
         }
     }
 }
